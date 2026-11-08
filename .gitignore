@@ -1,0 +1,6 @@
+*.a
+*.o
+build/
+ft_traceroute
+exemple*
+a.out

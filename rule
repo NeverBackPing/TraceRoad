@@ -1,0 +1,27 @@
+Mandatory part:
+
+• The executable will be named ft_traceroute.
+
+• You must code in C and turn-in a Makefile (respecting the usual rules).
+
+• The only option you’ll have to manage is ––help.
+
+• You have to solely manage a simple IPv4 (address/hostname) as a program parameter.
+
+• You have to manage the FQDN without running the DNS resolution in the jump display.
+
+• A 30ms +/- difference on a jump will be tolerated.
+
+• You are not allowed to set your socket(s) in O_NONBLOCK mode.
+
+• For your mandatory part, you are allowed to use the whole C standard library (the
+libC), and nothing but the libC. You may of course still use your own libft and the
+printf type functions.
+
+CAUTION !!
+Reminder: you may use the whole libC, and nothing but the libC. You
+are not allowed to set your socket(s) in O_NONBLOCK mode.
+
+CAUTION !!
+Hey, smarty (or not so smarty) pants ! You cannot call the real
+traceroute, of course !
